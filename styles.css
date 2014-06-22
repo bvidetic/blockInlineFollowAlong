@@ -1,0 +1,36 @@
+* {
+	margin: 0px;	
+}
+
+h1 {
+	background-color: red;
+}
+
+p {
+	background-color: yellow;
+
+}
+
+div {
+	background-color: green;
+}
+
+span {
+background-color: blue
+}
+
+a {
+background-color: yellow
+}
+
+b {
+background-color: lightblue
+}
+
+strong {
+background-color: gray
+}
+
+input {
+background-color: purple
+}
